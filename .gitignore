@@ -1,0 +1,10 @@
+example_logs/
+example_saved_models/
+example_tensorboard/
+dataset/
+*.gz
+*.pth
+cifar-10-batches-py
+*.0
+*.1
+*.2
